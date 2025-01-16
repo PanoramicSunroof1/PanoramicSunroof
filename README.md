@@ -1,4 +1,5 @@
 # PanoramicSunroof
 This is Panoramicsunroof's repo
-# Name: Mitchel Moeller
-# Major: Information Technology & Cybersecurity
+# Read me
+Name: Mitchel Moeller \n
+Major: Information Technology & Cybersecurity
